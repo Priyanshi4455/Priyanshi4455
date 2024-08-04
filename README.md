@@ -1,10 +1,10 @@
 <img align = "Top" alt="Coding" width="1000" height="300" src = "https://github.com/AdarshSingh4455/AdarshSingh4455/blob/main/ADARSH%20SINGH%20(1).png?raw=true">
-<h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
+<h1 align="center">Hi 👋, I'm Priyanshi Gangwar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
 <img align = "right" alt="Coding" width="400" src = "https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsingh4455&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsingh4455" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsingh4455&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsingh4455" /> </p>
+ -->
 - 📫 How to reach me *priyanshigangwar77@gmail.com*
 
 - ⚡ *Curious To Learn New Things*
