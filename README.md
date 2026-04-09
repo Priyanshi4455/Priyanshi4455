@@ -15,7 +15,6 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 ## 🌟 About Me
 
