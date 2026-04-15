@@ -56,14 +56,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi4455&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi4455&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshi4455&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi4455&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Priyanshi4455&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🧠 Currently Learning
