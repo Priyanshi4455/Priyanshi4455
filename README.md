@@ -1,55 +1,80 @@
-<!-- 🔥 Top Banner -->
-
+<!-- 🔥 Banner -->
 <img src="https://github.com/Priyanshi4455/Priyanshi4455/blob/main/priyanshi.png" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Priyanshi Gangwar</h1>
-<h3 align="center">🚀 Software Developer | Crafting Clean & Interactive Web Experiences</h3>
+<h1 align="center">Hey 👋, I'm Priyanshi Gangwar</h1>
+<h3 align="center">💻 Frontend Developer | Building Clean, Interactive & User-Centered Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Java+%7C+Web+Development;Always+Learning+New+Things+💡;Future+Full+Stack+Engineer+🔥">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshi4455&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Java+%7C+Web+Development;Building+Real+World+Projects;Future+Full+Stack+Engineer+🚀">
 </p>
 
 ---
-
 
 ## 🌟 About Me
 
-* 🎓 Tech Student from India
-* 💻 Passionate about **Web Development & Software Engineering**
-* ⚡ Love building interactive and user-friendly applications
-* 🎯 Goal: Become a **Full Stack Developer**
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
-</p>
+✨ Tech student from India who loves turning ideas into interactive web experiences  
+💡 Passionate about **Frontend Development & UI Design**  
+🛠️ Currently building real-world projects and improving problem-solving skills  
+🎯 Goal: Become a **Full Stack Developer & Software Engineer**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 EduHub
+### 🔹 EduHub  
+📚 Modern education platform UI  
+⚙️ Tech: HTML, CSS, JavaScript  
+🔗 *Add GitHub link here*
 
-📚 A modern education platform UI with clean design
+---
 
-### 🔹 Personal Portfolio
+### 🔹 Personal Portfolio  
+🌐 Showcases my work, skills & journey  
+⚙️ Tech: HTML, CSS, JS  
+🔗 *Add link*
 
-🌐 Showcases my skills, projects & achievements
+---
 
-### 🔹 Tic Tac Toe Game
+### 🔹 Tic Tac Toe Game  
+🎮 Interactive game with clean UI & logic  
+⚙️ Tech: JavaScript  
+🔗 *Add link*
 
-🎮 Interactive JavaScript-based game with logic
+---
 
-### 🔹 Weather Web App
+### 🔹 Weather Web App  
+🌦️ Real-time weather using API integration  
+⚙️ Tech: JS + API  
+🔗 *Add link*
 
-🌦️ Real-time weather data using API integration
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+⚛️ React JS (building dynamic apps)  
+☁️ Salesforce Development  
+🔗 API Integration & Backend Basics  
 
 ---
 
@@ -63,13 +88,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Priyanshi4455&theme=tokyonight" />
 </p>
----
-
-## 🧠 Currently Learning
-
-* ⚛️ React JS
-* ☁️ Salesforce Development
-* 🔗 API Integration
 
 ---
 
@@ -88,6 +106,4 @@
 
 ## 🏆 Fun Line
 
-✨ I don’t just write code… I build experiences.
-
----
+🚀 I don’t just build websites… I craft experiences people remember.
