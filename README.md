@@ -24,28 +24,28 @@
 ### 🔹 EduHub  
 📚 Modern education platform UI  
 ⚙️ Tech: HTML, CSS, JavaScript  
-🔗 *Add GitHub link here*
+🔗 https://priyanshi4455.github.io/Eduhub/
 
 ---
 
 ### 🔹 Personal Portfolio  
 🌐 Showcases my work, skills & journey  
 ⚙️ Tech: HTML, CSS, JS  
-🔗 *Add link*
+🔗 https://priyanshi4455.github.io/priyanshi-portfolio/
 
 ---
 
 ### 🔹 Tic Tac Toe Game  
 🎮 Interactive game with clean UI & logic  
 ⚙️ Tech: JavaScript  
-🔗 *Add link*
+🔗 https://priyanshi4455.github.io/tic-tac-toe-game/
 
 ---
 
 ### 🔹 Weather Web App  
 🌦️ Real-time weather using API integration  
 ⚙️ Tech: JS + API  
-🔗 *Add link*
+🔗 https://priyanshi4455.github.io/weather-web-application.io/
 
 ---
 
