@@ -12,11 +12,11 @@
 
 ## 🌟 About Me
 
-✨ Tech student from India who loves learning how to make sense of data.
-📊 Interested in finding patterns and insights in data.
-📚 Currently learning SQL, Excel, Power BI, and Python.
-💻 Enjoy learning new tools and working on projects.
-🎯 Working towards a career in Data Analytics.
+* ✨ Tech student from India who loves learning how to make sense of data
+* 📊 Interested in finding patterns and insights in data
+* 📚 Currently learning SQL, Excel, Power BI, and Python
+* 💻 Enjoy learning new tools and working on projects
+* 🎯 Working towards a career in Data Analytics
 
 ---
 
