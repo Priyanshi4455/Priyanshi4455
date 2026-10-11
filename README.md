@@ -66,7 +66,6 @@
 <img
 src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-<img src="https://skillicons.dev/icons?i=jupyter notebook" />
 
 ### 💻 Languages
 <p align="center">
