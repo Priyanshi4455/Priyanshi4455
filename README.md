@@ -77,9 +77,13 @@
 ## 🧠 Currently Learning
 
 -SQL queries and database analysis
+
 -Excel formulas, PivotTables, and charts
+
 -Power BI reports and dashboards
--Python for data analysis  
+
+-Python for data analysis
+
 -Salesforce Development  
 
 ---
