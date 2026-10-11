@@ -2,20 +2,21 @@
 <img src="https://github.com/Priyanshi4455/Priyanshi4455/blob/main/priyanshi.png" width="100%" />
 
 <h1 align="center">Hey 👋, I'm Priyanshi Gangwar</h1>
-<h3 align="center">💻 Frontend Developer | Building Clean, Interactive & User-Centered Web Apps</h3>
+<h3 align="center">📊 Aspiring Data Analyst| Building Clean, Interactive & User-friendly Reports and dashboards</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Java+%7C+Web+Development;Building+Real+World+Projects;Future+Full+Stack+Engineer+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Learning+Data+Analytics;SQL+%7C+Excel+%7C+Power+BI;Exploring+Python+for+Data+Analysis" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-✨ Tech student from India who loves turning ideas into interactive web experiences  
-💡 Passionate about **Frontend Development & UI Design**  
-🛠️ Currently building real-world projects and improving problem-solving skills  
-🎯 Goal: Become a **Full Stack Developer & Software Engineer**
+✨ Tech student from India who loves learning how to make sense of data.  
+📊 Interested in finding patterns and insights in data.
+📚 Currently learning SQL, Excel, Power BI, and Python.
+💻 Enjoy learning new tools and working on projects.
+🎯 Working towards a career in Data Analytics.
 
 ---
 
@@ -51,9 +52,12 @@
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+### 📊 Data Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### ⚙️ Tools
@@ -72,9 +76,11 @@
 
 ## 🧠 Currently Learning
 
-⚛️ React JS (building dynamic apps)  
-☁️ Salesforce Development  
-🔗 API Integration & Backend Basics  
+-SQL queries and database analysis
+-Excel formulas, PivotTables, and charts
+-Power BI reports and dashboards
+-Python for data analysis  
+-Salesforce Development  
 
 ---
 
@@ -104,6 +110,5 @@
 
 ---
 
-## 🏆 Fun Line
 
-🚀 I don’t just build websites… I craft experiences people remember.
+Learning, building, and improving one step at a time. 
