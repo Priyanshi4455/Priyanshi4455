@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-✨ Tech student from India who loves learning how to make sense of data.  
+✨ Tech student from India who loves learning how to make sense of data.
 📊 Interested in finding patterns and insights in data.
 📚 Currently learning SQL, Excel, Power BI, and Python.
 💻 Enjoy learning new tools and working on projects.
@@ -76,15 +76,11 @@
 
 ## 🧠 Currently Learning
 
--SQL queries and database analysis
-
--Excel formulas, PivotTables, and charts
-
--Power BI reports and dashboards
-
--Python for data analysis
-
--Salesforce Development  
+👉🏻SQL queries and database analysis
+👉🏻Excel formulas, PivotTables, and charts
+👉🏻Power BI reports and dashboards
+👉🏻Python for data analysis
+👉🏻Salesforce Development  
 
 ---
 
