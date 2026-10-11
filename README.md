@@ -64,8 +64,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png /> 
+src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+<img src="https://skillicons.dev/icons?i=jupyter notebook" />
 
 ### 💻 Languages
 <p align="center">
